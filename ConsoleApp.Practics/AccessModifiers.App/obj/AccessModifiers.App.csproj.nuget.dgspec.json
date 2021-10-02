@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.App\\AccessModifiers.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.App\\AccessModifiers.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.App\\AccessModifiers.App.csproj",
+        "projectName": "AccessModifiers.App",
+        "projectPath": "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.App\\AccessModifiers.App.csproj",
+        "packagesPath": "C:\\Users\\Agil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Agil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {
+              "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.Lib\\AccessModifiers.Lib.csproj": {
+                "projectPath": "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.Lib\\AccessModifiers.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.Lib\\AccessModifiers.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.Lib\\AccessModifiers.Lib.csproj",
+        "projectName": "AccessModifiers.Lib",
+        "projectPath": "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.Lib\\AccessModifiers.Lib.csproj",
+        "packagesPath": "C:\\Users\\Agil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agil\\Desktop\\task - oop\\ConsoleApp.Practics\\AccessModifiers.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Agil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
